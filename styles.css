@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(230, 68, 190);
+    transition: background-color 1s ease-in-out;
+}
+
+.container{
+    background-color: rgb(227, 207, 207) !important;
+    border-radius: 25px;
+    width: 55vw;
+    margin: auto;
+    margin-top: 80vh;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px 0px;
+}
+
+.btn {
+    border-radius: 8px;
+    border: 1px solid ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+#red{
+    background: red;
+}
+
+#black{
+    background-color: black;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#green{
+    background-color: green;
+}
+
+#purple{
+    background-color: purple;
+}
+
+#crimson{
+    background-color: crimson;
+}
+
